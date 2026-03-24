@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/152585332?s=400&u=4e1b2fbf4035213e607fc483eb082f79912121b2&v=4" alt="Ahmed Ghanem" width="150" style="border-radius: 50%;" />
+</p>
 <h1 align="center">Hi 👋, I'm Ahmed Ghanem</h1>
 <h3 align="center">Junior Full Stack .NET Developer | Angular & ASP.NET Core Enthusiast</h3>
 
@@ -21,10 +24,10 @@
   <a href="https://github.com/AhmedGhanem7777" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=28>
   </a>
-  <a href="mailto:ahmedfadeghanem012@gmail.com" target="_blank">
+  <a href="/cdn-cgi/l/email-protection#3e5f56535b5a585f5a5b59565f505b530e0f0c7e59535f5752105d5153" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ahmedfadeghanem012-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=28>
   </a>
-  <a href="mailto:ahmedghanem0155943@gmail.com" target="_blank">
+  <a href="/cdn-cgi/l/email-protection#66070e0b0302010e0708030b565753535f525526010b070f0a4805090b" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ahmedghanem0155943-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=28>
   </a>
   <a href="https://wa.me/201559434566" target="_blank">
@@ -41,7 +44,7 @@
 - 🌱 Frontend Trainee at **ITI** (Jun 2025)
 - 🔭 Currently working on **Contact Navigator** — a mobile app with real-time GPS sharing via SignalR
 - 💡 I enjoy building clean, scalable APIs and responsive user interfaces
-- 📫 Reach me at: **ahmedfadeghanem012@gmail.com**
+- 📫 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="74151c19111012151011131c151a1119444546341319151d185a171b19">[email&#160;protected]</a>**
 
 ---
 
@@ -207,12 +210,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGhanem7777&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGhanem7777&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is not just instructions for machines — it's a reflection of how we think and solve problems."</i>
-</p>
-<p align="center">Made with ❤️ by Ahmed Ghanem</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGhanem7777&theme=toky
